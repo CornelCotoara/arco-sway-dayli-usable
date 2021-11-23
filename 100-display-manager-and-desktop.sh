@@ -56,9 +56,13 @@ xfce4-terminal
 arcolinux-xfce-git
 arcolinux-local-xfce4-git
 sway
+#add waybar and bemenu
+waybar
+bemenu
+###########
 i3status
 dmenu
-feh
+#feh #not working
 autotiling
 alacritty
 arcolinux-sway-git

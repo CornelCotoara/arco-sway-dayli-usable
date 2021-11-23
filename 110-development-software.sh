@@ -49,7 +49,8 @@ echo "Installation of the development packages"
 list=(
 firefox
 sublime-text-4
-flameshot
+#flameshot #not working on wayland, use grim instead
+grim
 meld
 the_platinum_searcher-bin
 telegram-desktop
