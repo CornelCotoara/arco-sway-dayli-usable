@@ -1,3 +1,13 @@
+# Sway usable on arcolinux.
+
+# Has waybar out of the box.
+
+# Use .config files to have a working bemenu for wayland.
+
+# Teamvewer and anydesk not working on wayland....
+
+# Video is great, no tearing!!!!
+
 # ArcoLinuxD sway desktop
 
 # Start by installing the latest ArcoLinuxD iso
