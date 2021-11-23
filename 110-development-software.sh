@@ -54,7 +54,7 @@ grim
 meld
 the_platinum_searcher-bin
 telegram-desktop
-discord
+#discord #not working on wayland
 simplescreenrecorder
 scrot
 )
